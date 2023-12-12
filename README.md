@@ -3,7 +3,8 @@ SHOPNO is my personal pet project designed to practice, improve and showcase my 
 The main goal of this project is not just to create an ordinary landing page, but also to use it as a platform for experiments and improvements. 
 This is my first serious pet project, so please don't judge too harshly. I believe that every stage of this project contributes to my professional growth and I am open to feedback and improvements.
 
-The project is also available online. You can check it out at this link: [SHOPNO](https://hnatkruk.github.io/shopno/).
+The project is also available online. You can check it out at this link: <a href="https://hnatkruk.github.io/shopno/" target="_blank">SHOPNO</a>
+
 
 ## Technologies
 - HTML
@@ -34,4 +35,4 @@ Open your web browser and go to http://localhost:3000 to explore and interact wi
 ## Contacts
 You can contact me using:
 - Email: hnatkivpublic@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/hnatkivtaras/](https://www.linkedin.com/in/hnatkivtaras/)
+- LinkedIn: <a href="https://www.linkedin.com/in/hnatkivtaras/" target="_blank">https://www.linkedin.com/in/hnatkivtaras/</a>
